@@ -29,7 +29,7 @@ _NAO_VIA_PUBLICA = [
 
 # List of conchelos
 FILE = 'lista_de_concelhos_nivel_de_risco.txt'
-with open(FILE, 'r') as f:
+with open(FILE, 'r', encoding='utf-8') as f:
     raw = f.read()
 
 moderado = raw.split('Moderado')[1].split('Elevado')[0].split('\n')[1:-1]
