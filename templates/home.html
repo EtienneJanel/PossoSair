@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<style>
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 30px;
+        width: 100%;
+        text-align: center;
+    }
+</style>
+
+<form action="" method="POST">
+    {{ form.csrf_token}}
+    <div class="form-group">
+        <label for="concelho">Concelhos:</label>
+        {{form.concelho(class="form-control")}}
+    </div>
+    <input type="submit" class="btn btn-success" btn-lg>
+
+</form>
+
+<footer class="footer">
+
+    <p>mais informação em: covid19estamoson.gov.pt</p>
+
+</footer>
+
+{% endblock content %}

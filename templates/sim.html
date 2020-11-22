@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+    * {
+        margin: 0;
+        background: rgb(17, 200, 10);
+        color: antiquewhite;
+    }
+
+    html,
+    body {
+        height: 100%;
+    }
+
+    .page-wrap {
+        position: absolute;
+        font-size: xx-large;
+        text-align: center;
+        width: 100%;
+        height: 50px;
+        top: 50%;
+        margin-top: -25px;
+        margin-bottom: -50px;
+    }
+
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 50px;
+        width: 100%;
+        text-align: center;
+    }
+
+    ​
+</style>
+
+
+
+<div class="sim">
+    <div class="page-wrap">
+        <h1>SIM</h1>
+    </div>
+
+    <footer class="footer">
+        {% if inter_concelho == "False" %}
+        <p>Mas sem circulação inter-concelhia!</p>
+        {% endif %}
+    </footer>
+</div>
+
+</html>
