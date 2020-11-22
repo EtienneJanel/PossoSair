@@ -1,1 +1,1 @@
-web: gunicorn application:possosair
+web: gunicorn application:app
