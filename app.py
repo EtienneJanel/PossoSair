@@ -97,4 +97,4 @@ def nao(inter_concelho):
     return render_template('nao.html', inter_concelho=inter_concelho)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
