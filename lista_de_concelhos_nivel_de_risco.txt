@@ -1,79 +1,79 @@
 Risco Moderado < 240
 Aljezur
 Alvito
-MÈrtola
+M√©rtola
 Moura
-Mour„o
+Mour√£o
 Portel
 Sernancelhe
 Vidigueira
 Alcoutim
-AlmodÙvar
-Alvai·zere
+Almod√¥var
+Alvai√°zere
 Arraiolos
 Castelo de Vide
 Castro Marim
-GÛis
+G√≥is
 Ourique
 Pinhel
-Santiago do CacÈm
+Santiago do Cac√©m
 Vendas Novas
 Vila de Rei
 Aguiar da Beira
 Alandroal
 Aljustrel
-AlpiarÁa
-Alter do Ch„o
+Alpiar√ßa
+Alter do Ch√£o
 Avis
 Barrancos
 Beja
 Bombarral
 Borba
 Caldas da Rainha
-Carrazeda de Ansi„es
+Carrazeda de Ansi√£es
 Carregal do Sal
-Castanheira de PÍra
+Castanheira de P√™ra
 Castro Verde
 Ferreira do Alentejo
-Ferreira do ZÍzere
-FigueirÛ dos Vinhos
+Ferreira do Z√™zere
+Figueir√≥ dos Vinhos
 Fornos de Algodres
 Fronteira
-Goleg„
+Goleg√£
 Gouveia
-LoulÈ
-Lourinh„
-MaÁ„o
-Marv„o
+Loul√©
+Lourinh√£
+Ma√ß√£o
+Marv√£o
 Moimenta da Beira
 Monchique
-”bidos
+√ìbidos
 Odemira
-Olh„o
+Olh√£o
 Oliveira do Hospital
-PedrÛg„o Grande
-Santa Comba D„o
-S„o Br·s de Alportel
-Sert„
+Pedr√≥g√£o Grande
+Santa Comba D√£o
+S√£o Br√°s de Alportel
+Sert√£
 Silves
 Sousel
-T·bua
-TabuaÁo
+T√°bua
+Tabua√ßo
 Tavira
 Vila Flor
-Vila Real de Santo AntÛnio
-Vila Velha de RÛd„o
+Vila Real de Santo Ant√≥nio
+Vila Velha de R√≥d√£o
 Vouzela
 Risco Elevado > 240 a 480
 Albufeira
-Alc·cer do Sal
-AlcobaÁa
+Alc√°cer do Sal
+Alcoba√ßa
 Alcochete
 Alenquer
 Almeida
 Almeirim
 Anadia
-Ansi„o
+Ansi√£o
 Arronches
 Arruda dos Vinhos
 Barreiro
@@ -90,50 +90,50 @@ Cuba
 Elvas
 Entroncamento
 Estremoz
-…vora
+√âvora
 Faro
-Gavi„o
-Gr‚ndola
+Gavi√£o
+Gr√¢ndola
 Idanha-a-Nova
 Lagoa
 Lagos
 Leiria
-Lous„
+Lous√£
 Mafra
 Marinha Grande
-MelgaÁo
-Mes„o Frio
+Melga√ßo
+Mes√£o Frio
 Mira
 Miranda do Douro
 Moita
-MonÁ„o
+Mon√ß√£o
 Monforte
 Montalegre
 Montemor-o-Novo
 Montemor-o-Velho
 Montijo
-Mort·gua
+Mort√°gua
 Nelas
 Palmela
 Paredes de Coura
 Penalva do Castelo
 Penedono
 Peniche
-Peso da RÈgua
+Peso da R√©gua
 Ponte da Barca
 Ponte de Sor
-Portim„o
-Porto de MÛs
+Portim√£o
+Porto de M√≥s
 Redondo
 Ribeira de Pena
 Rio Maior
 Salvaterra de Magos
-SantarÈm
-S„o Jo„o da Pesqueira
+Santar√©m
+S√£o Jo√£o da Pesqueira
 Sardoal
 Serpa
 Sesimbra
-Sobral de Monte AgraÁo
+Sobral de Monte Agra√ßo
 Soure
 Terras de Bouro
 Tomar
@@ -147,15 +147,15 @@ Vila do Bispo
 Vila Nova da Barquinha
 Vila Nova de Cerveira
 Vila Nova de Poiares
-Vila ViÁosa
+Vila Vi√ßosa
 Vimioso
 Vinhais
 Viseu
 Risco Muito Elevado 480 a 960
 Abrantes
-¡gueda
+√Ågueda
 Albergaria-a-Velha
-AlijÛ
+Alij√≥
 Almada
 Amadora
 Arcos de Valdevez
@@ -163,78 +163,78 @@ Arganil
 Armamar
 Aveiro
 Azambuja
-Bai„o
+Bai√£o
 Boticas
-BraganÁa
+Bragan√ßa
 Cabeceiras de Basto
 Cantanhede
 Cartaxo
 Cascais
 Chaves
-Const‚ncia
+Const√¢ncia
 Coruche
-Covilh„
+Covilh√£
 Esposende
 Estarreja
 Figueira da Foz
-Fund„o
+Fund√£o
 Guarda
-Õlhavo
+√çlhavo
 Lamego
 Lisboa
 Loures
 Macedo de Cavaleiros
 Mangualde
 Mealhada
-MÍda
+M√™da
 Miranda do Corvo
 Mirandela
 Mogadouro
 Mondim de Basto
 Mora
-MurÁa
+Mur√ßa
 Murtosa
-NazarÈ
+Nazar√©
 Nisa
 Oeiras
 Odivelas
 Oleiros
 Oliveira de Frades
 Oliveira do Bairro
-OurÈm
+Our√©m
 Pampilhosa da Serra
 Penacova
 Penamacor
 Penela
 Pombal
 Ponte de Lima
-ProenÁa-a-Nova
+Proen√ßa-a-Nova
 Reguengos de Monsaraz
 Resende
 Sabrosa
 Sabugal
-Santa Marta de Penagui„o
-S„o Pedro do Sul
-S·t„o
+Santa Marta de Penagui√£o
+S√£o Pedro do Sul
+S√°t√£o
 Seia
 Seixal
-Set˙bal
+Set√∫bal
 Sever do Vouga
 Sines
 Sintra
 Tarouca
 Torre de Moncorvo
 Vagos
-ValpaÁos
+Valpa√ßos
 Vila Franca de Xira
-Vila Nova de Foz CÙa
+Vila Nova de Foz C√¥a
 Vila Nova de Paiva
 Vila Pouca de Aguiar
 Vila Real
 Vila Verde
 Risco Extremamente Elevado > 960
 Alcanena
-Alf‚ndega da FÈ
+Alf√¢ndega da F√©
 Amarante
 Amares
 Arouca
@@ -245,38 +245,38 @@ Caminha
 Castelo de Paiva
 Celorico da Beira
 Celorico de Basto
-Cinf„es
+Cinf√£es
 Crato
 Espinho
 Fafe
 Felgueiras
 Figueira de Castelo Rodrigo
-Freixo de Espada ‡ Cinta
+Freixo de Espada √† Cinta
 Gondomar
-Guimar„es
+Guimar√£es
 Lousada
 Maia
 Manteigas
 Marco de Canaveses
 Matosinhos
-Oliveira de AzemÈis
+Oliveira de Azem√©is
 Ovar
-PaÁos de Ferreira
+Pa√ßos de Ferreira
 Paredes
 Penafiel
 Portalegre
 Porto
-PÛvoa de Lanhoso
-PÛvoa de Varzim
+P√≥voa de Lanhoso
+P√≥voa de Varzim
 Santa Maria da Feira
 Santo Tirso
-S„o Jo„o da Madeira
+S√£o Jo√£o da Madeira
 Trofa
 Vale de Cambra
-ValenÁa
+Valen√ßa
 Valongo
 Vieira do Minho
 Vila do Conde
-Vila Nova de Famalic„o
+Vila Nova de Famalic√£o
 Vila Nova de Gaia
 Vizela
