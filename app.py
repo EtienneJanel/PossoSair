@@ -40,17 +40,17 @@ del(raw)
 concelhos = moderado + elevado + muito_elevado + extremamente_elevado
 concelhos.sort()
 
-def lisbon_now():
-    """return the utc time now of http://worldtimeapi.org"""
-    try:
-        response = requests.get("http://worldtimeapi.org/api/timezone/Europe/Lisbon")
-        date_time_json = response.json()['datetime']
-        date_time = datetime.strptime(date_time_json, "%Y-%m-%dT%H:%M:%S.%f+00:00")  
-    except:
-        response = requests.get("http://worldtimeapi.org/api/timezone/Europe/London")
-        date_time_json = response.json()['datetime']
-        date_time = datetime.strptime(date_time_json, "%Y-%m-%dT%H:%M:%S.%f+00:00")  
-    return date_time
+# def lisbon_now():
+#     """return the utc time now of http://worldtimeapi.org"""
+#     try:
+#         response = requests.get("http://worldtimeapi.org/api/timezone/Europe/Lisbon")
+#         date_time_json = response.json()['datetime']
+#         date_time = datetime.strptime(date_time_json, "%Y-%m-%dT%H:%M:%S.%f+00:00")  
+#     except:
+#         response = requests.get("http://worldtimeapi.org/api/timezone/Europe/London")
+#         date_time_json = response.json()['datetime']
+#         date_time = datetime.strptime(date_time_json, "%Y-%m-%dT%H:%M:%S.%f+00:00")  
+#     return date_time
 
 # Routes
 @app.route("/", methods=['GET', 'POST'])
@@ -60,7 +60,7 @@ def home():
     form.concelho.choices = [item for item in concelhos]
     if request.method == 'POST':
         concelho = form.concelho.data
-        date_time = lisbon_now()
+        date_time = datetime.utcnow()
 
         # IF concelho = moderado OR elevado
     	## 1.restriction: inter concelho
