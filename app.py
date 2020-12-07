@@ -32,6 +32,7 @@ FILE = 'lista_de_concelhos_nivel_de_risco.txt'
 with open(FILE, 'r', encoding='utf-8') as f:
     raw = f.read()
 
+raw = raw.replace("    ","").replace("\n\n","\n")
 moderado = raw.split('Moderado')[1].split('Elevado')[0].split('\n')[1:-1]
 elevado = raw.split('Elevado')[1].split('\n')[1:-1]
 muito_elevado = raw.split('Muito Elevado')[1].split('Extremamente Elevado')[0].split('\n')[1:-1]
@@ -39,18 +40,6 @@ extremamente_elevado = raw.split('Extremamente Elevado')[1].split('\n')[1:]
 del(raw)
 concelhos = moderado + elevado + muito_elevado + extremamente_elevado
 concelhos.sort()
-
-# def lisbon_now():
-#     """return the utc time now of http://worldtimeapi.org"""
-#     try:
-#         response = requests.get("http://worldtimeapi.org/api/timezone/Europe/Lisbon")
-#         date_time_json = response.json()['datetime']
-#         date_time = datetime.strptime(date_time_json, "%Y-%m-%dT%H:%M:%S.%f+00:00")  
-#     except:
-#         response = requests.get("http://worldtimeapi.org/api/timezone/Europe/London")
-#         date_time_json = response.json()['datetime']
-#         date_time = datetime.strptime(date_time_json, "%Y-%m-%dT%H:%M:%S.%f+00:00")  
-#     return date_time
 
 # Routes
 @app.route("/", methods=['GET', 'POST'])

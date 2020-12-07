@@ -1,282 +1,289 @@
-Risco Moderado < 240
-Aljezur
-Alvito
-Mértola
-Moura
-Mourão
-Portel
-Sernancelhe
-Vidigueira
-Alcoutim
-Almodôvar
-Alvaiázere
-Arraiolos
-Castelo de Vide
-Castro Marim
-Góis
-Ourique
-Pinhel
-Santiago do Cacém
-Vendas Novas
-Vila de Rei
-Aguiar da Beira
-Alandroal
-Aljustrel
-Alpiarça
-Alter do Chão
-Avis
-Barrancos
-Beja
-Bombarral
-Borba
-Caldas da Rainha
-Carrazeda de Ansiães
-Carregal do Sal
-Castanheira de Pêra
-Castro Verde
-Ferreira do Alentejo
-Ferreira do Zêzere
-Figueiró dos Vinhos
-Fornos de Algodres
-Fronteira
-Golegã
-Gouveia
-Loulé
-Lourinhã
-Mação
-Marvão
-Moimenta da Beira
-Monchique
-Óbidos
-Odemira
-Olhão
-Oliveira do Hospital
-Pedrógão Grande
-Santa Comba Dão
-São Brás de Alportel
-Sertã
-Silves
-Sousel
-Tábua
-Tabuaço
-Tavira
-Vila Flor
-Vila Real de Santo António
-Vila Velha de Ródão
-Vouzela
-Risco Elevado > 240 a 480
-Albufeira
-Alcácer do Sal
-Alcobaça
-Alcochete
-Alenquer
-Almeida
-Almeirim
-Anadia
-Ansião
-Arronches
-Arruda dos Vinhos
-Barreiro
-Batalha
-Benavente
-Cadaval
-Campo Maior
-Castelo Branco
-Castro Daire
-Chamusca
-Coimbra
-Condeixa-a-Nova
-Cuba
-Elvas
-Entroncamento
-Estremoz
-Évora
-Faro
-Gavião
-Grândola
-Idanha-a-Nova
-Lagoa
-Lagos
-Leiria
-Lousã
-Mafra
-Marinha Grande
-Melgaço
-Mesão Frio
-Mira
-Miranda do Douro
-Moita
-Monção
-Monforte
-Montalegre
-Montemor-o-Novo
-Montemor-o-Velho
-Montijo
-Mortágua
-Nelas
-Palmela
-Paredes de Coura
-Penalva do Castelo
-Penedono
-Peniche
-Peso da Régua
-Ponte da Barca
-Ponte de Sor
-Portimão
-Porto de Mós
-Redondo
-Ribeira de Pena
-Rio Maior
-Salvaterra de Magos
-Santarém
-São João da Pesqueira
-Sardoal
-Serpa
-Sesimbra
-Sobral de Monte Agraço
-Soure
-Terras de Bouro
-Tomar
-Tondela
-Torres Novas
-Torres Vedras
-Trancoso
-Viana do Alentejo
-Viana do Castelo
-Vila do Bispo
-Vila Nova da Barquinha
-Vila Nova de Cerveira
-Vila Nova de Poiares
-Vila Viçosa
-Vimioso
-Vinhais
-Viseu
-Risco Muito Elevado 480 a 960
-Abrantes
-Águeda
-Albergaria-a-Velha
-Alijó
-Almada
-Amadora
-Arcos de Valdevez
-Arganil
-Armamar
-Aveiro
-Azambuja
-Baião
-Boticas
-Bragança
-Cabeceiras de Basto
-Cantanhede
-Cartaxo
-Cascais
-Chaves
-Constância
-Coruche
-Covilhã
-Esposende
-Estarreja
-Figueira da Foz
-Fundão
-Guarda
-Ílhavo
-Lamego
-Lisboa
-Loures
-Macedo de Cavaleiros
-Mangualde
-Mealhada
-Mêda
-Miranda do Corvo
-Mirandela
-Mogadouro
-Mondim de Basto
-Mora
-Murça
-Murtosa
-Nazaré
-Nisa
-Oeiras
-Odivelas
-Oleiros
-Oliveira de Frades
-Oliveira do Bairro
-Ourém
-Pampilhosa da Serra
-Penacova
-Penamacor
-Penela
-Pombal
-Ponte de Lima
-Proença-a-Nova
-Reguengos de Monsaraz
-Resende
-Sabrosa
-Sabugal
-Santa Marta de Penaguião
-São Pedro do Sul
-Sátão
-Seia
-Seixal
-Setúbal
-Sever do Vouga
-Sines
-Sintra
-Tarouca
-Torre de Moncorvo
-Vagos
-Valpaços
-Vila Franca de Xira
-Vila Nova de Foz Côa
-Vila Nova de Paiva
-Vila Pouca de Aguiar
-Vila Real
-Vila Verde
-Risco Extremamente Elevado > 960
-Alcanena
-Alfândega da Fé
-Amarante
-Amares
-Arouca
-Barcelos
-Belmonte
-Braga
-Caminha
-Castelo de Paiva
-Celorico da Beira
-Celorico de Basto
-Cinfães
-Crato
-Espinho
-Fafe
-Felgueiras
-Figueira de Castelo Rodrigo
-Freixo de Espada à Cinta
-Gondomar
-Guimarães
-Lousada
-Maia
-Manteigas
-Marco de Canaveses
-Matosinhos
-Oliveira de Azeméis
-Ovar
-Paços de Ferreira
-Paredes
-Penafiel
-Portalegre
-Porto
-Póvoa de Lanhoso
-Póvoa de Varzim
-Santa Maria da Feira
-Santo Tirso
-São João da Madeira
-Trofa
-Vale de Cambra
-Valença
-Valongo
-Vieira do Minho
-Vila do Conde
-Vila Nova de Famalicão
-Vila Nova de Gaia
-Vizela
+Concelhos de Risco Moderado
+
+    Abrantes
+    Albufeira
+    Alcoutim
+    Aljezur
+    Aljustrel
+    Almodôvar
+    Alpiarça
+    Alvaiázere
+    Alvito
+    Avis
+    Batalha
+    Beja
+    Benavente
+    Bombarral
+    Borba
+    Cadaval
+    Caldas da Rainha
+    Campo Maior
+    Carrazeda de Ansiães
+    Castanheira de Pêra
+    Castro Marim
+    Castro Verde
+    Constância
+    Coruche
+    Estremoz
+    Ferreira do Alentejo
+    Ferreira do Zêzere
+    Figueiró dos Vinhos
+    Fornos de Algodres
+    Góis
+    Idanha-a-Nova
+    Loulé
+    Lourinhã
+    Mangualde
+    Moimenta da Beira
+    Monforte
+    Mora
+    Moura
+    Nazaré
+    Óbidos
+    Olhão
+    Oliveira de Frades
+    Ourique
+    Paredes de Coura
+    Pedrógão Grande
+    Ponte de Sor
+    Portel
+    Porto de Mós
+    Proença-a-Nova
+    Redondo
+    Ribeira de Pena
+    Salvaterra de Magos
+    Santa Comba Dão
+    Santiago do Cacém
+    São Brás de Alportel
+    São João da Pesqueira
+    Sernancelhe
+    Sertã
+    Silves
+    Sousel
+    Tábua
+    Tabuaço
+    Tavira
+    Tondela
+    Vendas Novas
+    Viana do Alentejo
+    Vidigueira
+    Vila de Rei
+    Vila Flor
+    Vila Nova da Barquinha
+    Vila Real de Santo António
+    Vila Velha de Ródão
+    Vila Viçosa
+
+Concelhos de Risco Elevado
+
+    Alcácer do Sal
+    Alcobaça
+    Alcochete
+    Alenquer
+    Almeida
+    Almeirim
+    Alter do Chão
+    Amadora
+    Arganil
+    Arraiolos
+    Arronches
+    Arruda dos Vinhos
+    Barrancos
+    Carregal do Sal
+    Cascais
+    Castelo de Vide
+    Castro Daire
+    Celorico da Beira
+    Coimbra
+    Elvas
+    Entroncamento
+    Évora
+    Faro
+    Figueira de Castelo Rodrigo
+    Fronteira
+    Fundão
+    Golegã
+    Grândola
+    Lagoa
+    Lagos
+    Leiria
+    Lousã
+    Mação
+    Mafra
+    Marinha Grande
+    Mealhada
+    Mêda
+    Melgaço
+    Mértola
+    Mesão Frio
+    Mira
+    Mogadouro
+    Moita
+    Monção
+    Monchique
+    Montalegre
+    Montemor-o-Novo
+    Montemor-o-Velho
+    Montijo
+    Nelas
+    Odivelas
+    Oeiras
+    Oleiros
+    Oliveira do Hospital
+    Ourém
+    Palmela
+    Penalva do Castelo
+    Penamacor
+    Penedono
+    Penela
+    Peniche
+    Peso da Régua
+    Pinhel
+    Pombal
+    Portimão
+    Odemira
+    Reguengos de Monsaraz
+    Resende
+    Sabrosa
+    Santa Marta de Penaguião
+    Santarém
+    São Pedro do Sul
+    Seixal
+    Sesimbra
+    Setúbal
+    Sever do Vouga
+    Sines
+    Sintra
+    Sobral de Monte Agraço
+    Terras de Bouro
+    Tomar
+    Torres Novas
+    Trancoso
+    Vagos
+    Vila do Bispo
+    Vila Franca de Xira
+    Vila Nova de Cerveira
+    Vila Nova de Foz Côa
+    Vila Nova de Poiares
+    Vinhais
+    Viseu
+    Vouzela
+
+Concelhos de Risco Muito Elevado
+
+    Águeda
+    Aguiar da Beira
+    Alandroal
+    Albergaria-a-Velha
+    Alcanena
+    Alfândega da Fé
+    Alijó
+    Almada
+    Amarante
+    Amares
+    Anadia
+    Ansião
+    Arcos de Valdevez
+    Arouca
+    Aveiro
+    Azambuja
+    Baião
+    Barreiro
+    Boticas
+    Bragança
+    Caminha
+    Cantanhede
+    Cartaxo
+    Castelo Branco
+    Castelo de Paiva
+    Celorico de Basto
+    Chamusca
+    Cinfães
+    Condeixa-a-Nova
+    Covilhã
+    Crato
+    Cuba
+    Estarreja
+    Figueira da Foz
+    Gondomar
+    Gouveia
+    Guarda
+    Ílhavo
+    Lamego
+    Lisboa
+    Loures
+    Maia
+    Manteigas
+    Marco de Canaveses
+    Matosinhos
+    Miranda do Douro
+    Mirandela
+    Mortágua
+    Mourão
+    Murça
+    Murtosa
+    Oliveira de Azeméis
+    Oliveira do Bairro
+    Ovar
+    Pampilhosa da Serra
+    Penacova
+    Ponte da Barca
+    Ponte de Lima
+    Porto
+    Rio Maior
+    Sabugal
+    Sardoal
+    Sátão
+    Seia
+    Serpa
+    Soure
+    Tarouca
+    Torre de Moncorvo
+    Torres Vedras
+    Vale de Cambra
+    Valongo
+    Viana do Castelo
+    Vila Nova de Gaia
+    Vila Nova de Paiva
+    Vila Pouca de Aguiar
+    Vila Real
+    Vila Verde
+    Vimioso 
+
+Concelhos de Risco Extremamente Elevado
+
+    Armamar
+    Barcelos
+    Belmonte
+    Braga
+    Cabeceiras de Basto
+    Chaves
+    Espinho
+    Esposende
+    Fafe
+    Felgueiras
+    Freixo de Espada à Cinta
+    Gavião
+    Guimarães
+    Lousada
+    Macedo de Cavaleiros
+    Marvão
+    Miranda do Corvo
+    Mondim de Basto
+    Nisa
+    Paços de Ferreira
+    Paredes
+    Penafiel
+    Portalegre
+    Póvoa de Lanhoso
+    Póvoa de Varzim
+    Santa Maria da Feira
+    Santo Tirso
+    São João da Madeira
+    Trofa
+    Valença
+    Valpaços
+    Vieira do Minho
+    Vila do Conde
+    Vila Nova de Famalicão
+    Vizela
